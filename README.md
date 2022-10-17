@@ -1,8 +1,8 @@
 # anomaly-detection-unsupervised
 
-In this repository you can find the master's thesis carried out by Damián Mateos García and directed by Cesar Augusto Guzmán Álvarez at the International University of Valencia (VIU).
+In this repository you can find the master's thesis carried out by Damián Mateos García and directed by Cesar Augusto Guzmán Álvarez at the **Valencia International University (VIU)**.
 
-The work is written in Spanish and the repository contains the document where it is written and the code in ipynb format with which it was made.
+The work is written in **Spanish and the repository contains the document where it is written and the code in ipynb format with which it was made.
 
 The summary of the work is as follows:
 
